@@ -1,0 +1,13 @@
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
+
+.header-color {
+    background: #233876;
+}
+
+.colorText {
+    color: #233876;
+}
